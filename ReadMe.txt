@@ -1,2 +1,3 @@
 mybatis和jpa同时支持
 嵌入式H2数据库
+需按照lombook插件
